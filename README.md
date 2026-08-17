@@ -1,5 +1,6 @@
 # Member Services: Proactive Claim Issue Detection (Prototype)
-
+# Development timeline note
+Development note: this project was built iteratively over about a week — including fixing a real bug where summary counts didn't reconcile (see "Why 'unique claims flagged' ≠ 'total issue instances'" above) and refining the matching and diagnosis logic based on testing. It was uploaded to GitHub as a single commit after development was complete, rather than committed incrementally during the build.
 ## What this is
 
 A **prototype / proof-of-concept**, built to support an internal pitch for real
